@@ -4,16 +4,16 @@
 
 ## 💫 About Me:
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<br>- 🔭 I’m currently working on **Front-End Web Development**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><br>
+- 🔭 I’m currently working on **Front-End Web Development**<br>
 
-<br>- 🌱 I’m currently learning **ReactJS,NodeJS, Typescript, NextJS.**
+- 🌱 I’m currently learning **ReactJS,NodeJS, Typescript, NextJS.**<br>
 
-<br>- 💬 Ask me about **ReactJS and any tech related stuff.**
+- 💬 Ask me about **ReactJS and any tech related stuff.**<br>
 
-<br>- ⚡ Fun fact: I am a **lazy person.** 
+- ⚡ Fun fact: I am a **lazy person.** <br>
 
-<br>- 📫 How to reach me **samiulkarimprodhan@gmail.com, https://www.facebook.com/samiul.karim.shrabon/ , https://www.linkedin.com/in/samiul-karim-3197381b2/**
+- 📫 How to reach me **samiulkarimprodhan@gmail.com, https://www.facebook.com/samiul.karim.shrabon/ , https://www.linkedin.com/in/samiul-karim-3197381b2/**
 
 
 
