@@ -52,8 +52,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=imSamiul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left">Hello World!!</p>
-
 ###
 
 <img src="https://raw.githubusercontent.com/imSamiul/imSamiul/output/snake.svg" alt="Snake animation" />
