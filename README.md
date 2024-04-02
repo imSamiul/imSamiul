@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-# 💫 About Me:
+<h1>💫 About Me:</h1>
 
 <br>- 🔭 I’m currently working on **Front-End Web Development**<br>- 🌱 I’m currently learning **ReactJS,NodeJS, Typescript, NextJS.**<br>- 💬 Ask me about **ReactJS and any tech related stuff.**<br>- ⚡ Fun fact: I am a **lazy person.** <br>- 📫 How to reach me **samiulkarimprodhan@gmail.com, https://www.facebook.com/samiul.karim.shrabon/ , https://www.linkedin.com/in/samiul-karim-3197381b2/**
 
