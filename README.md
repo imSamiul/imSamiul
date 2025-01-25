@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact: I am a **lazy person.** <br>
 
-- 📫 How to reach me **samiulkarimprodhan@gmail.com, https://www.facebook.com/samiul.karim.shrabon/ , https://www.linkedin.com/in/samiul-karim-3197381b2/**
 
 
 
