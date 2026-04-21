@@ -8,7 +8,9 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center">
+  <img alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+</p>
 
 🚀 **Full Stack Developer** with a strong focus on building scalable, performant web applications using the **MERN Stack**.
 
