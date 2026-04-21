@@ -39,8 +39,6 @@
 
 ---
 
----
-
 ## 💻 Tech Stack
 
 **Languages**
@@ -92,7 +90,6 @@
 **Cloud & Deployment**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_SES-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -112,36 +109,79 @@
 
 ---
 
+## ⏱️ This Week I Coded
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=imSamiul&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imSamiul&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imSamiul&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imSamiul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&ring_color=00b4d8&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imSamiul&theme=tokyonight&hide_border=true&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imSamiul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=python,java,c,c%2B%2B&card_width=400&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imSamiul&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imSamiul&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imSamiul&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imSamiul&theme=tokyonight&utcOffset=6" width="32%"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=imSamiul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imSamiul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imSamiul&theme=tokyo-night&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=ff6b6b&custom_title=Samiul's%20Contribution%20Graph" width="100%"/>
+</p>
+
+---
+
+## 🔝 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=imSamiul&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+</p>
 
 ---
 
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=imSamiul&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-###
-
-<img src="https://raw.githubusercontent.com/imSamiul/imSamiul/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imSamiul/imSamiul/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=imSamiul&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=imSamiul&icon=6&color=6" alt="Profile Views"/>
+  </a>
+</p>
