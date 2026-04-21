@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samiul Karim Prodhan</h1>
-<h3 align="center">⚡ MERN Stack Developer | Full Stack Engineer from Bangladesh</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Samiul%20Karim%20Prodhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%94%A5;TypeScript+%2B+Next.js+Enthusiast+%E2%9C%85;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -134,14 +133,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imSamiul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -150,10 +141,12 @@
 
 ---
 
-## 🔝 Top Contributed Repos
+## 👨‍💻 Dev Card
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=imSamiul&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <a href="https://app.daily.dev/imSamiul" target="_blank">
+    <img src="https://api.daily.dev/devcards/v2/imSamiul.png?type=wide&r=4k0" width="652" alt="Samiul's Dev Card"/>
+  </a>
 </p>
 
 ---
@@ -177,3 +170,5 @@
     <img src="https://visitcount.itsvg.in/api?id=imSamiul&icon=6&color=6" alt="Profile Views"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=footer" width="100%"/>
