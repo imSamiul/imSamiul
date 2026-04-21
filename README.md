@@ -8,9 +8,9 @@
 
 ## 💫 About Me
 
-<p align="center">
-  <img alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-</p>
+<table border="0" width="100%">
+<tr>
+<td valign="top" width="60%">
 
 🚀 **Full Stack Developer** with a strong focus on building scalable, performant web applications using the **MERN Stack**.
 
@@ -21,7 +21,13 @@
 - 🤝 Always open to collaborating on exciting **open-source** or **freelance** projects
 - 💬 Ask me about **ReactJS, Node.js, REST APIs, or anything web tech!**
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="40%" align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" style="max-width:300px;"/>
+</td>
+</tr>
+</table>
+  <br clear="right"/>
 
 ---
 
