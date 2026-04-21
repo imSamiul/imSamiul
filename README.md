@@ -141,11 +141,11 @@
 
 ---
 
-## 👨‍💻 Dev Card
+## 🏅 Holopin Badges
 
 <p align="center">
-  <a href="https://app.daily.dev/imSamiul" target="_blank">
-    <img src="https://api.daily.dev/devcards/v2/imSamiul.png?type=wide&r=4k0" width="652" alt="Samiul's Dev Card"/>
+  <a href="https://holopin.me/imSamiul" target="_blank">
+    <img src="https://holopin.me/imSamiul" alt="Holopin badges" width="100%"/>
   </a>
 </p>
 
