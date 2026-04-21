@@ -141,16 +141,6 @@
 
 ---
 
-## 🏅 Holopin Badges
-
-<p align="center">
-  <a href="https://holopin.me/imSamiul" target="_blank">
-    <img src="https://holopin.me/imSamiul" alt="Holopin badges" width="100%"/>
-  </a>
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
@@ -167,6 +157,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imSamiul&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/imSamiul?style=for-the-badge&color=00b4d8&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/imSamiul?style=for-the-badge&color=00b4d8&labelColor=0d1117&logo=github&label=TOTAL+STARS" alt="Stars"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=footer" width="100%"/>
