@@ -166,9 +166,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=imSamiul&icon=6&color=6" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=imSamiul&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=footer" width="100%"/>
