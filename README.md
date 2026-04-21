@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samiul Karim Prodhan</h1>
 <h3 align="center">⚡ MERN Stack Developer | Full Stack Engineer from Bangladesh</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%94%A5;TypeScript+%2B+Next.js+Enthusiast+%E2%9C%85;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 💫 About Me
@@ -119,18 +123,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imSamiul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&ring_color=00b4d8&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imSamiul&theme=tokyonight&hide_border=true&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imSamiul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=python,java,c,c%2B%2B&card_width=400&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imSamiul&theme=tokyonight" width="100%"/>
 </p>
 
@@ -145,7 +137,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imSamiul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imSamiul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
 </p>
 
 ---
