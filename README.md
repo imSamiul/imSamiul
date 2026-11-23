@@ -1,35 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Samiul%20Karim%20Prodhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,60:24283b,100:00b4d8&height=220&section=header&text=Samiul%20Karim%20Prodhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" alt="Samiul Karim Prodhan - Full Stack Developer"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Engineer+%F0%9F%94%A5;TypeScript+%2B+Next.js+Enthusiast+%E2%9C%85;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Full+Stack+Engineer+%F0%9F%94%A5;TypeScript+%2B+Next.js+Enthusiast+%E2%9C%85;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://samiul3041.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=00b4d8" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="mailto:samiulkarimprodhan@gmail.com"><img src="https://img.shields.io/badge/Email_Me-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email me"/></a>
 </p>
 
 ---
 
 ## 💫 About Me
 
-<table border="0" width="100%">
-<tr>
-<td align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-🚀 **Full Stack Developer** with a strong focus on building scalable, performant web applications using the **MERN Stack**.
+🚀 **Full Stack Developer** focused on building scalable, performant web applications with **TypeScript**, **Next.js**, **React**, **Node.js**, and **MongoDB**.
 
 - 🔭 Currently working as a **Full Stack Developer**, crafting end-to-end web solutions
-- 💼 Specialized in **React.js**, **Node.js**, **Express.js**, and **MongoDB**
-- ✅ Proficient in **TypeScript** and **Next.js** for modern, type-safe applications
+- 💼 Specialized in **React.js**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**
 - 🌐 Passionate about clean architecture, responsive design, and great user experiences
 - 🤝 Always open to collaborating on exciting **open-source** or **freelance** projects
-- 💬 Ask me about **ReactJS, Node.js, REST APIs, or anything web tech!**
+- 💬 Ask me about **TypeScript, React, Next.js, Node.js, or REST APIs!**
 
-</td>
-</tr>
-</table>
-  <br clear="right"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imSamiul&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -37,16 +31,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imsamiul3041" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/samiulprodhan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
+  <a href="https://x.com/samiulprodhan" target="_blank">
+    <img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/13513167" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=F58025" alt="Stack Overflow"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-1a1b27?style=for-the-badge&logo=stackoverflow&logoColor=F58025" alt="Stack Overflow"/>
   </a>&nbsp;&nbsp;
   <a href="https://fb.com/samiul.karim.shrabon" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1a1b27?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/>
   </a>
 </p>
 
@@ -54,71 +48,75 @@
 
 ## 💻 Tech Stack
 
-**Languages**
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td align="center" width="140"><b>🧠 Languages</b></td>
+<td>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td>
+  <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-1a1b27?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux Toolkit"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-1a1b27?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-1a1b27?style=for-the-badge&logo=reacthookform&logoColor=EC5990" alt="React Hook Form"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-1a1b27?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Zod-1a1b27?style=for-the-badge&logo=zod&logoColor=3E67B1" alt="Zod"/>
+  <img src="https://img.shields.io/badge/Motion-1a1b27?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Motion"/>
+  <img src="https://img.shields.io/badge/SWR-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="SWR"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Socket.io-1a1b27?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/Passport.js-1a1b27?style=for-the-badge&logo=passport&logoColor=34E27A" alt="Passport.js"/>
+  <img src="https://img.shields.io/badge/Redis-1a1b27?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/NGINX-1a1b27?style=for-the-badge&logo=nginx&logoColor=009639" alt="NGINX"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Database</b></td>
+<td>
+  <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Mongoose-1a1b27?style=for-the-badge&logo=mongoose&logoColor=E04F5F" alt="Mongoose"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>☁️ Cloud &amp; Deployment</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/AWS_SES-1a1b27?style=for-the-badge" alt="AWS SES"/>
+  <img src="https://img.shields.io/badge/Heroku-1a1b27?style=for-the-badge&logo=heroku&logoColor=79589F" alt="Heroku"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🛠️ Dev Tools</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=vscodium&logoColor=007ACC" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Bruno-1a1b27?style=for-the-badge&logo=bruno&logoColor=F4AA41" alt="Bruno"/>
+  <img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+</td>
+</tr>
+</table>
 
-**Frontend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-**Backend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
-
-**Database**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-</p>
-
-**Cloud & Deployment**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_SES-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-</p>
-
-**Dev Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+</div>
 
 ---
 
@@ -127,12 +125,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-47%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
+> &nbsp;
 > 📦 882.0 kB Used in GitHub's Storage 
  > 
 > 🏆 932 Contributions in the Year 2026
@@ -142,7 +139,7 @@
 > 📜 59 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
- > 
+> &nbsp;
 **I'm a Night 🦉** 
 
 ```text
@@ -199,12 +196,6 @@ Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/imSamiul/imSamiul/main/assets/bar_graph.png)
-
-
  Last Updated on 23/11/2026 15:21:52 UTC
 <!--END_SECTION:waka-->
 
@@ -213,13 +204,13 @@ Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imSamiul&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imSamiul&theme=tokyonight" width="100%" alt="GitHub profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imSamiul&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imSamiul&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imSamiul&theme=tokyonight&utcOffset=6" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imSamiul&theme=tokyonight" width="32%" alt="Repositories per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imSamiul&theme=tokyonight" width="32%" alt="Most used language by commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imSamiul&theme=tokyonight&utcOffset=6" width="32%" alt="Productive time of day"/>
 </p>
 
 ---
@@ -227,7 +218,7 @@ Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imSamiul&theme=tokyo-night&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=ff6b6b&custom_title=Samiul's%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imSamiul&theme=tokyo-night&hide_border=true&area=true&color=00b4d8&line=00b4d8&point=ff6b6b&custom_title=Samiul's%20Contribution%20Graph" width="100%" alt="Contribution graph"/>
 </p>
 
 ---
@@ -235,13 +226,17 @@ Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random developer quote"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imSamiul/imSamiul/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imSamiul/imSamiul/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imSamiul/imSamiul/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/imSamiul/imSamiul/output/snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
@@ -254,4 +249,4 @@ Python                   2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img src="https://img.shields.io/github/stars/imSamiul?style=for-the-badge&color=00b4d8&labelColor=0d1117&logo=github&label=TOTAL+STARS" alt="Stars"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,60:24283b,100:00b4d8&height=120&section=footer" width="100%" alt=""/>
