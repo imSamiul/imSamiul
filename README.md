@@ -48,21 +48,18 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+**🧠 Languages**
 
-<table>
-<tr>
-<td align="center" width="140"><b>🧠 Languages</b></td>
-<td>
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🎨 Frontend</b></td>
-<td>
+</p>
+
+**🎨 Frontend**
+
+<p align="left">
   <img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Redux_Toolkit-1a1b27?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux Toolkit"/>
@@ -73,11 +70,11 @@
   <img src="https://img.shields.io/badge/Zod-1a1b27?style=for-the-badge&logo=zod&logoColor=3E67B1" alt="Zod"/>
   <img src="https://img.shields.io/badge/Motion-1a1b27?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Motion"/>
   <img src="https://img.shields.io/badge/SWR-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="SWR"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Backend</b></td>
-<td>
+</p>
+
+**⚙️ Backend**
+
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Socket.io-1a1b27?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
@@ -85,38 +82,34 @@
   <img src="https://img.shields.io/badge/Redis-1a1b27?style=for-the-badge&logo=redis&logoColor=FF4438" alt="Redis"/>
   <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
   <img src="https://img.shields.io/badge/NGINX-1a1b27?style=for-the-badge&logo=nginx&logoColor=009639" alt="NGINX"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Database</b></td>
-<td>
+</p>
+
+**🗄️ Database**
+
+<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Mongoose-1a1b27?style=for-the-badge&logo=mongoose&logoColor=E04F5F" alt="Mongoose"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>☁️ Cloud &amp; Deployment</b></td>
-<td>
+</p>
+
+**☁️ Cloud & Deployment**
+
+<p align="left">
   <img src="https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
   <img src="https://img.shields.io/badge/AWS_SES-1a1b27?style=for-the-badge" alt="AWS SES"/>
   <img src="https://img.shields.io/badge/Heroku-1a1b27?style=for-the-badge&logo=heroku&logoColor=79589F" alt="Heroku"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>🛠️ Dev Tools</b></td>
-<td>
+</p>
+
+**🛠️ Dev Tools**
+
+<p align="left">
   <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=vscodium&logoColor=007ACC" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"/>
   <img src="https://img.shields.io/badge/Bruno-1a1b27?style=for-the-badge&logo=bruno&logoColor=F4AA41" alt="Bruno"/>
   <img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
-</td>
-</tr>
-</table>
-
-</div>
+</p>
 
 ---
 
